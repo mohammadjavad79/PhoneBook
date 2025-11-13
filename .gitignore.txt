@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+*.vsidx
+
+# Logs
+*.log
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# EF Core Migrations model snapshot backup
+*Migrations*/**/*.cs~
+*Migrations*/**/*.Designer.cs~
+
+# Generated files
+*.generated.cs
+
+# Publish output
+publish/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Others
+*.cache
+*.pdb
+*.mdb
+*.ilk
+*.tmp
+*.bak

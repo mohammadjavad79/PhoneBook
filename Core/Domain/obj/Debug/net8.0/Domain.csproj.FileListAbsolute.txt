@@ -1,0 +1,23 @@
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\bin\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\bin\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Core\Domain\obj\Debug\net8.0\ref\Domain.dll

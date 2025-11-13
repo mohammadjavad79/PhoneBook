@@ -1,0 +1,39 @@
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.csproj.AssemblyReference.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.AssemblyInfoInputs.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.AssemblyInfo.cs
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.csproj.CoreCompileInputs.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.deps.json
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.runtimeconfig.json
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Application.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Application.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persiste.A5F46D4B.Up2Date
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\refint\Persistence.Sqlite.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.genruntimeconfig.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\ref\Persistence.Sqlite.dll
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.deps.json
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.runtimeconfig.json
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.dll
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Persistence.Sqlite.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Application.dll
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Application.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\bin\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.csproj.AssemblyReference.cache
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.AssemblyInfoInputs.cache
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.AssemblyInfo.cs
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.csproj.CoreCompileInputs.cache
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.sourcelink.json
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persiste.A5F46D4B.Up2Date
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.dll
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\refint\Persistence.Sqlite.dll
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\Persistence.Sqlite.genruntimeconfig.cache
+E:\Practice\Asp\Phone book\PhoneBook\Infrustructres\Persistence.Sqlite\obj\Debug\net8.0\ref\Persistence.Sqlite.dll

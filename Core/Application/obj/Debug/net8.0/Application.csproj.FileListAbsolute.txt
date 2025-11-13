@@ -1,0 +1,31 @@
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\bin\Debug\net8.0\Application.deps.json
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\bin\Debug\net8.0\Application.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\bin\Debug\net8.0\Application.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\bin\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\bin\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Application.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\Application.pdb
+E:\Practice\Asp\Hasin Task\Hasin Task\Core\Application\obj\Debug\net8.0\ref\Application.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\bin\Debug\net8.0\Application.deps.json
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\bin\Debug\net8.0\Application.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\bin\Debug\net8.0\Application.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\bin\Debug\net8.0\Domain.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\bin\Debug\net8.0\Domain.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.sourcelink.json
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\Application.pdb
+E:\Practice\Asp\Phone book\PhoneBook\Core\Application\obj\Debug\net8.0\ref\Application.dll
